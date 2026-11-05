@@ -1,0 +1,30 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+
+# Build outputs
+publish/
+out/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.sln.DotSettings
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Secrets
+*.env
+appsettings.*.json
+
+# Temporary
+*.log
