@@ -2,7 +2,7 @@
 
 A lightweight Windows desktop widget that monitors hardware in real time.
 
-![ShiniHardwareInfo Widget](screenshot.png)
+![ShiniHardwareInfo Widget](widget-screenshot.png)
 
 ## Features
 
